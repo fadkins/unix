@@ -1,3 +1,11 @@
+11 17 98 /home/vpvw/githubtask/unix/testing.txt
+Sun Dec  8 14:15:40 EST 2019
+/home/ncxq/362cosc2019/VPVWTestQuestionKaishiaIeraci.txt
+/home/vpvw/githubtask/unix/Kaishia
+/home/vpvw/githubtask/unix/Kaishia/Kaishia
+/home/vpvw/githubtask/unix/Kaishia/testing.txt
+/home/vpvw/githubtask/unix/File_for_Ieraci_Kaishia.sh
+/tmp/Kaishia
 #! /bin/bash 
 #1.
 echo "Step 1"
@@ -72,3 +80,6 @@ mail fadkins@iup.edu -s "ExamInfoFromKaishiaIeraci" -A /home/vpvw/githubtask/uni
 echo " " 
 echo "Step 14" 
 cp /home/vpvw/githubtask/unix/Kaishia.tar ~/githubtask/unix/KaishiaIeraci_submit
+File_for_Ieraci_Kaishia.sh
+testing.txt
+Kaishia
